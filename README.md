@@ -1,5 +1,10 @@
 # Prediksi Risiko Titik Panas Karhutla Kalimantan Berdasarkan Akumulasi Cuaca dan Historis Kebakaran
 
+## Preview
+![Peta Karhutla](images/risk_map_improved.png)
+![SHAP Summary](images/shap_summary.png)
+![Dashboard](images/Screenshot.png)
+
 ## 📌 Ringkasan Eksekutif
 Proyek ini membangun model machine learning untuk memprediksi probabilitas kemunculan titik panas (hotspot) kebakaran hutan dan lahan (karhutla) di Kalimantan pada hari berikutnya (H+1). Menggunakan data satelit NASA FIRMS dan data cuaca NASA POWER, model menganalisis bagaimana kekeringan jangka panjang dan keberlanjutan api (persistence) memengaruhi risiko kebakaran di masa depan.
 
