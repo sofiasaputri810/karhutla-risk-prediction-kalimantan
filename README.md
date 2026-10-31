@@ -76,4 +76,6 @@ Dalam skenario mitigasi bencana, melewatkan potensi kebakaran (False Negative) j
 ---
 > "Dari data satelit yang rumit menjadi peta peringatan dini: mari gunakan Machine Learning untuk mengalokasikan sumber daya pemadaman karhutla secara lebih presisi dan tepat waktu."
 
+Anda juga bisa mengakses website peringatan dini sederhana berikut [https://karhutla-risk-prediction-kalimantan.streamlit.app/]
+
 Dibuat oleh: Sofia Saputri
